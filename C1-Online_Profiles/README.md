@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume and provide links to you
 [Brian's LinkedIn](https://www.linkedin.com/in/brian-nguyen-090623198/)
 
 ### Resume
-[Brian's Resume]()
+[Brian's Resume](https://github.com/keitaroryu/liftoff-assignments/blob/master/C1-Online_Profiles/BrianResume2020.pdf)
