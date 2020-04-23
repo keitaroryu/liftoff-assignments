@@ -8,4 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 [Group Project Repository](https://github.com/LaunchCodeLiftoffProjects/Happy-Meower)
+
 [Project Assignment 4: Hello World and License](https://github.com/LaunchCodeLiftoffProjects/Happy-Meower/tree/brian-hello-world)
